@@ -1,2 +1,2 @@
 # IOR-shop
-I did this work in collaboration with my friends @rabukhader and @obada-yahya
+This site provides a ecommerce service, the site was built with ASP.NET Core MVC framework
